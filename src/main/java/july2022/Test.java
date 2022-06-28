@@ -1,10 +1,10 @@
+package july2022;
 
 public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hellp Coding");
-
+		System.out.println("Hello Coding");
 	}
 
 }
