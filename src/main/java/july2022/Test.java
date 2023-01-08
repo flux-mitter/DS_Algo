@@ -10,6 +10,9 @@ public class Test {
 		System.out.println("Main3");
 		System.out.println("Main4");
 		System.out.println("Main5");
+		System.out.println("Main6");
+		System.out.println("Main7");
+		System.out.println("Main8");
 		
 	}
 
